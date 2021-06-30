@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 104125926d9b4eea863b80d3887e9ada
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinSprite: {fileID: 21300000, guid: c004db8fd9df57e45ad02ca9790029b9, type: 3}
+  - crystalSprite: {fileID: 21300000, guid: fef87bee444df54479467d2f72c23f0d, type: 3}
+  - currencyImage: {instanceID: 0}
+  - priceText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
